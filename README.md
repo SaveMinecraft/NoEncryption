@@ -1,5 +1,6 @@
 # NoEncryption
 NoEncryption is a very simple plugin designed that removes the signature from player messages. This means that your players won't be chat reported!  
+This fork only exists to be on the SaveMinecraft GitHub account. It will be as updated as <a href="https://github.com/Doclic/NoEncryption">Doclic/NoEncryption</a> and will have the same releases.  
   
 <b>This plugin won't allow banned players to join.</b>
 
